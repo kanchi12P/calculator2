@@ -4,5 +4,5 @@ Features:-
 2) Differentiation
 3) Integration
 
-The deployed link is below-
+The deployed link is-
 https://kanchi12p.github.io/calculator2/
